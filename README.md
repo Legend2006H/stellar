@@ -60,7 +60,8 @@ Every transaction and state change is recorded on the Stellar blockchain, creati
 **view_payroll(payment_id)**
 - Retrieves complete payroll record details
 - Returns default values if record not found
-- Provides read-only access to payroll information
+- Provides read-only access to payroll information........
+- 
 
 ## Future Scope
 
